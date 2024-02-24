@@ -4,8 +4,8 @@ import { imageAvatar, illustration } from "./assets/images";
 function App() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-Yellow p-4">
-      <div className="bg-White p-6 rounded-2xl border border-black flex flex-col gap-3 max-w-[385px] duration-500 ease-out my-custom-shadow">
-        <img src={illustration} alt="svg" className="mb-3 w-full h-[200px] rounded-lg object-cover object-center" />
+      <div className="bg-White m-2 p-5 rounded-2xl border border-black flex flex-col gap-3 max-w-[375px] duration-500 ease-out my-custom-shadow">
+        <img src={illustration} alt="illustration article" className="mb-3 w-full rounded-lg object-cover object-center" />
         {/* tags */}
         <div className="text-Black bg-Yellow rounded px-4 py-1 text-base w-fit font-extrabold">
           Learning
