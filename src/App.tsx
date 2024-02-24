@@ -16,7 +16,7 @@ function App() {
         <h1 className="hover:text-Yellow text-2xl text font-extrabold cursor-pointer duration-500 ease-out">
           HTML & CSS foundations
         </h1>
-        <p className="text-Gray text-base">
+        <p className="text-Gray text-base pb-2">
             These languages are the backgbon of every website, definnig
             structure, content, and presentation.
           </p>
