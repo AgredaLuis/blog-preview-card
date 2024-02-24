@@ -4,16 +4,16 @@ import { imageAvatar, illustration } from "./assets/images";
 function App() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-Yellow p-4">
-      <div className="bg-White p-4 rounded-2xl border border-black flex flex-col gap-4 max-w-[365px] duration-500 ease-out my-custom-shadow">
-        <img src={illustration} alt="svg" className="rounded-lg" />
+      <div className="bg-White p-4 rounded-2xl border border-black flex flex-col gap-3 max-w-[365px] duration-500 ease-out my-custom-shadow">
+        <img src={illustration} alt="svg" className="rounded-lg pb-4" />
         {/* tags */}
-        <div className="text-black bg-Yellow rounded px-3 py-1 text-sm w-fit font-bold">
+        <div className="text-black bg-Yellow rounded px-4 py-1 text-base w-fit font-extrabold">
           Leaning
         </div>
-        <p className="text-base font-bold">
+        <p className="text-base text-Gray font-extrabold">
           Published 21 Dec 2023
         </p>
-        <h1 className="hover:text-Yellow text-2xl text font-bold cursor-pointer duration-500 ease-out">
+        <h1 className="hover:text-Yellow text-2xl text font-extrabold cursor-pointer duration-500 ease-out">
           HTML & CSS foundations
         </h1>
         <p className="text-Gray text-base">
