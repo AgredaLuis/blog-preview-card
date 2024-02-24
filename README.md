@@ -11,8 +11,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/AgredaLuis/qr-code-component)
-- Live Site URL: [live site URL here](https://AgredaLuis.github.io/qr-code-component/)
+- Solution URL: [solution URL here](https://github.com/AgredaLuis/blog-preview-card)
+- Live Site URL: [live site URL here](https://agredaluis.github.io/blog-preview-card/)
 
 ## My process
 
